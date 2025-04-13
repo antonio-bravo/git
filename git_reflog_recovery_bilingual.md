@@ -50,6 +50,9 @@ O puedes hacer:
 ```bash
 git reset --hard HEAD@{1}
 ```
+#### 💡 Tip pro
+
+Después de un `reset --hard`, nunca hagas un `gc` (garbage collect) hasta haber revisado `reflog`, ya que Git podría borrar esos objetos si los considera inalcanzables.
 
 ---
 
