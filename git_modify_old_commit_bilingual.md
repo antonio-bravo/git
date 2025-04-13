@@ -3,8 +3,8 @@
 
 ## 📚 Índice / Table of Contents
 
-- 🇪🇸 [Versión en Español](#versión-en-español)
-- 🇬🇧 [English Version](#english-version)
+- [🇪🇸 Versión en Español](#🇪🇸-versión-en-español)
+- [🇬🇧 English Version](#🇬🇧-english-version)
 
 ---
 
@@ -97,6 +97,7 @@ Git ordenará automáticamente el `fixup` junto al commit `C2`.
 ---
 
 ## 🇬🇧 English Version
+## English Version
 
 ### 🎯 Goal
 
