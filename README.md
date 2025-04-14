@@ -1,7 +1,5 @@
 # Git
 
-## Things to do
-
 * [#5 Fixing the Last Commit](git_change_message_last_commit_bilingual.md)
 * [#6 Reverting a commit in the Middle](git_revert_middle_commit_bilingual.md)
 * [#8 Resetting afile to an old revision](git_restore_old_file_bilingual.md)
