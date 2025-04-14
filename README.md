@@ -2,8 +2,8 @@
 
 ## Things to do
 
-* [Fix Last Commit](git_change_message_last_commit_bilingual.md)
-* [Revert a commit in the middle](git_revert_middle_commit_bilingual.md)
+* [#5 Fixing the Last Commit](git_change_message_last_commit_bilingual.md)
+* [#6 Reverting a commit in the Middle](git_revert_middle_commit_bilingual.md)
 * [#8 Resetting afile to an old revision](git_restore_old_file_bilingual.md)
 * [Reflog git diary](git_reflog_recovery_bilingual.md)
 * [#9 recover deleted commit](git_reflog_recovery_bilingual.md)
