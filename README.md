@@ -1,15 +1,39 @@
-# Git
+# 🧠 Git Knowledge Base
 
-[Advanced Git Tutorial - Interactive Rebase, Cherry-Picking, Reflog, Submodules and more https://www.youtube.com/watch?v=qsTthZi23VE](https://www.youtube.com/watch?v=qsTthZi23VE)
+Una colección de recursos y guías prácticas sobre Git: desde operaciones básicas hasta técnicas avanzadas como rebase interactivo, cherry-picking, reflog y más.
 
-[Undoing Things and saving your Neck with Git | Tobias Günther https://www.youtube.com/watch?v=7A6hFIZflUw](https://www.youtube.com/watch?v=7A6hFIZflUw)
+---
 
-* [#5 Fixing the Last Commit](git_change_message_last_commit_bilingual.md)
-* [#6 Reverting a commit in the Middle](git_revert_middle_commit_bilingual.md)
-* [#8 Resetting a file to an old revision](git_restore_old_file_bilingual.md)
-* [Reflog git diary](git_reflog_recovery_bilingual.md)
-* [#9 recover deleted commit](git_reflog_recovery_bilingual.md)
-* [#10 recover deleted branch](git_reflog_recovery_bilingual.md)
-* [#12 moving commit to a new branch cherry-pick](git_move_commit_between_branches.md)
-* [#16 adding a change to an old commit](git_modify_old_commit_bilingual.md)
-* [#17 Split / Editing an old commit](split_commit_git_tutorial.md)
+## 🎥 Videos Recomendados
+
+- 🎬 [Advanced Git Tutorial - Interactive Rebase, Cherry-Picking, Reflog, Submodules and more](https://www.youtube.com/watch?v=qsTthZi23VE)
+- 🛠️ [Undoing Things and Saving Your Neck with Git | Tobias Günther](https://www.youtube.com/watch?v=7A6hFIZflUw)
+
+---
+
+## 📘 Guías en Markdown
+
+### 🔄 Commit Management
+
+- [#5 Cambiar el mensaje del último commit](git_change_message_last_commit_bilingual.md)
+- [#6 Revertir un commit intermedio](git_revert_middle_commit_bilingual.md)
+- [#16 Añadir cambios a un commit antiguo](git_modify_old_commit_bilingual.md)
+- [#17 Dividir / Editar un commit antiguo](split_commit_git_tutorial.md)
+
+### 🗂️ Recuperación y Restauración
+
+- [#8 Restaurar un archivo a una versión antigua](git_restore_old_file_bilingual.md)
+- [#9 Recuperar un commit eliminado](git_reflog_recovery_bilingual.md)
+- [#10 Recuperar una rama eliminada](git_reflog_recovery_bilingual.md)
+
+### 🌿 Manejo de Ramas y Cherry-Pick
+
+- [#12 Mover un commit a otra rama con cherry-pick](git_move_commit_between_branches.md)
+
+### 📝 Reflog
+
+- [Reflog: El diario oculto de Git](git_reflog_recovery_bilingual.md)
+
+---
+
+✍️ Todos los documentos están disponibles en versiones bilingües (Español / English) cuando corresponde.
