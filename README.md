@@ -1,6 +1,7 @@
 # Git
 
 [https://www.youtube.com/watch?v=qsTthZi23VE](https://www.youtube.com/watch?v=qsTthZi23VE)
+
 [https://www.youtube.com/watch?v=7A6hFIZflUw](https://www.youtube.com/watch?v=7A6hFIZflUw)
 
 * [#5 Fixing the Last Commit](git_change_message_last_commit_bilingual.md)
