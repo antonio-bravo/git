@@ -1,0 +1,86 @@
+[user]
+	name = antonio-bravo
+	email = <>
+[init]
+	defaultBranch = main
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[http]
+	postBuffer = 524288000
+	maxRequestBuffer = 100M
+[commit]
+	gpssign = false
+[alias]
+	st = status -s
+	lol = log --oneline --graph --all
+	lod = log --oneline --decorate
+	graph = log --oneline --graph --decorate
+	rl = reflog --date=iso --pretty
+	wd = diff --word-diff
+	b = blame -C -C -C
+[grep]
+	lineNumber = true
+	patternType = perl
+	#extendedRegexp = true	
+[gitbutler]
+	didSetPrune = 1
+	aiModelProvider = anthropic
+[filter "lfs"]
+	required = true
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+
+# clearly makes git better
+[column]
+	ui = auto
+[branch]
+	#sort = -committerdate
+[tag]
+	sort = version:refname
+[diff]
+	algorithm = histogram
+	colorMoved = plain
+	mnemonicPrefix = true
+	renames = true
+[push]
+	#default = simple
+	autoSetupRemote = true
+	followTags = true
+[fetch]
+	#prune = true
+	#pruneTags = true
+	#all = true
+[help]
+	autocorrect = prompt
+[commit]
+	verbose = true
+[rerere]
+	#enabled = true
+	#autoupdate = true
+[core]
+	excludefile = /Users/antonio-bravo/.gitignore
+[rebase]
+	autoSquash = true
+	autoStash = true
+	updateRef = true
+
+# a matter of taste
+
+[merge]
+	conflictstyle = zdiff3
+	#tool = sgdm
+#[mergetool.sgdm]
+	#cmd = sgmd -merge -result=\"$MERGED\" \
+	#		\"$LOCAL\" \"$BASE\" \"$REMOTE\"
+#[includeIf "gitdir:/Users/ethomson/libgit2/"]
+#	path = .gitconfig.libgit2
+[pull]
+	rebase = true
+
+
+#.gitattribute
+#* text=auto
