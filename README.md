@@ -8,6 +8,7 @@ Una colección de recursos y guías prácticas sobre Git: desde operaciones bás
 
 - 🎬 [Advanced Git Tutorial - Interactive Rebase, Cherry-Picking, Reflog, Submodules and more](https://www.youtube.com/watch?v=qsTthZi23VE)
 - 🛠️ [Undoing Things and Saving Your Neck with Git | Tobias Günther](https://www.youtube.com/watch?v=7A6hFIZflUw)
+- 🛠️ [You Don’t Know Git | Edward Thomson - NDC London 2025](https://www.youtube.com/watch?v=DZI0Zl-1JqQ)
 
 ---
 
