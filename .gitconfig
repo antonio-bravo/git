@@ -1,6 +1,6 @@
 [user]
 	name = antonio-bravo
-	email = 79697559+antonio-bravo@users.noreply.github.com
+	email = <>
 [init]
 	defaultBranch = main
 [filter "lfs"]
@@ -16,6 +16,15 @@
 [alias]
 	st = status -s
 	lol = log --oneline --graph --all
+	lod = log --oneline --decorate
+	graph = log --oneline --graph --decorate
+	rl = reflog --date=iso --pretty
+	wd = diff --word-diff
+	b = blame -C -C -C
+[grep]
+	lineNumber = true
+	patternType = perl
+	#extendedRegexp = true	
 [gitbutler]
 	didSetPrune = 1
 	aiModelProvider = anthropic
@@ -46,14 +55,14 @@
 	#pruneTags = true
 	#all = true
 [help]
-	#autocorrect = prompt
+	autocorrect = prompt
 [commit]
 	verbose = true
 [rerere]
 	#enabled = true
 	#autoupdate = true
 [core]
-	#excludefile = /users/<path>/.gitignore
+	excludefile = /Users/antonio-bravo/.gitignore
 [rebase]
 	autoSquash = true
 	autoStash = true
@@ -62,13 +71,16 @@
 # a matter of taste
 
 [merge]
-	#conflictstyle = zdiff3
+	conflictstyle = zdiff3
+	#tool = sgdm
+#[mergetool.sgdm]
+	#cmd = sgmd -merge -result=\"$MERGED\" \
+	#		\"$LOCAL\" \"$BASE\" \"$REMOTE\"
+#[includeIf "gitdir:/Users/ethomson/libgit2/"]
+#	path = .gitconfig.libgit2
 [pull]
 	rebase = true
 
 
-
-
-
-
-
+#.gitattribute
+#* text=auto
