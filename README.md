@@ -31,6 +31,10 @@ Una colección de recursos y guías prácticas sobre Git: desde operaciones bás
 
 - [#12 Mover un commit a otra rama con cherry-pick](git_move_commit_between_branches.md)
 
+### 📝 Rebase
+
+- [Rebase guia completa](git_rebase_full_guide.md)
+
 ### 📝 Reflog
 
 - [Reflog: El diario oculto de Git](git_reflog_recovery_bilingual.md)
