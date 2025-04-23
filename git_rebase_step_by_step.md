@@ -16,7 +16,7 @@ This guide includes detailed examples showing what you’ll see in your terminal
 - [6. Combinar commit 2 y 4 / Squash commit 2 and 4](#6-combinar-commit-2-y-4--squash-commit-2-and-4)
 
 ---
-
+## 1. Rebase básico / Basic rebase
 🧭 ## 1. git rebase <branch> - Rebase básico
 
 ### 🎯 Objetivo:
