@@ -17,7 +17,7 @@ This guide includes detailed examples showing what you’ll see in your terminal
 
 ---
 ## 1. Rebase básico / Basic rebase
-🧭 ## 1. git rebase <branch> - Rebase básico
+## 🧭 1. `git rebase <branch>` - Rebase básico
 
 ### 🎯 Objetivo:
 Reescribir los commits de una rama (`feature`) para que se apliquen encima de la base de otra (`main`).
@@ -61,8 +61,8 @@ Applying: Commit E
 ```
 
 ---
-
-✏️ ## 2. git rebase -i - Rebase interactivo
+## 2. Rebase interactivo / Interactive rebase
+## ✏️ 2. git rebase -i - Rebase interactivo
 
 ### 🎯 Objetivo:
 Editar, reordenar, unir o eliminar commits recientes.
@@ -113,7 +113,7 @@ Luego se te pedirá que edites el mensaje del commit combinado.
 ```
 
 ---
-
+## 3. Rebase avanzado con --onto
 ## 🔀 3. `git rebase --onto` - Rebase avanzado
 
 ### 🎯 Objetivo:
@@ -154,6 +154,7 @@ feature:            F'--G'
 
 ---
 
+## 4. Autosquash y fixup
 ## 🪄 4. `git rebase --autosquash` + `--fixup`
 
 ### 🎯 Objetivo:
@@ -195,7 +196,9 @@ fixup e5f6 fixup! Initial login
 
 ---
 
-## 🧯 5. Rebase con conflicto
+## 5. Rebase con conflictos / Rebase with conflicts
+
+## 🧯 5. Rebase con conflicto / Rebase with conflicts
 
 ### 📍 Estado inicial
 
@@ -221,6 +224,7 @@ git rebase --continue
 
 ---
 
+## 6. Combinar commit 2 y 4 / Squash commit 2 and 4
 ## 6. 🧩 Combinar commit 2 y 4 / Squash commit 2 and 4
 
 ### 🎯 Objetivo / Goal
