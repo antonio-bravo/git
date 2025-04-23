@@ -7,6 +7,7 @@
 
 ---
 
+## Versión en Español
 ## 🇪🇸 Versión en Español
 
 ### 🧠 Escenario 1: Recuperar commits eliminados tras `git reset --hard`
@@ -88,6 +89,7 @@ git branch feature/login bca4321
 
 ---
 
+## English Version
 ## 🇬🇧 English Version
 
 ### 🧠 Scenario 1: Recover deleted commits after `git reset --hard`

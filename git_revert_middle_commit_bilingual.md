@@ -7,6 +7,7 @@
 
 ---
 
+## Versión en Español
 ## 🇪🇸 Versión en Español
 
 ### 🧠 Escenario
@@ -73,6 +74,7 @@ git commit
 
 ---
 
+## English Version
 ## 🇬🇧 English Version
 
 ### 🧠 Scenario

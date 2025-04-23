@@ -157,6 +157,7 @@ git commit --fixup <hash>          # crear commit para autosquash
 
 ---
 
+## Cuándo evitarlo
 ## ⚠️ Cuándo evitarlo
 
 - ❌ No hagas rebase a ramas compartidas si ya hiciste `push`
@@ -164,6 +165,7 @@ git commit --fixup <hash>          # crear commit para autosquash
 
 ---
 
+## Consejos avanzados
 ## 🧠 Consejos avanzados
 
 - Usa `git log --graph` para ver el efecto de los rebase

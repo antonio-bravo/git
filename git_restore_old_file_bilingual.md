@@ -7,6 +7,7 @@
 
 ---
 
+## Versión en Español
 ## 🇪🇸 Versión en Español
 
 ### 🧠 Escenario
@@ -106,6 +107,7 @@ git reset --hard HEAD
 
 ---
 
+## English Version
 ## 🇬🇧 English Version
 
 ### 🧠 Scenario

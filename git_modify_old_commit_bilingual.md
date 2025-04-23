@@ -8,6 +8,7 @@
 
 ---
 
+## Versión en Español
 ## 🇪🇸 Versión en Español
 
 ### 🎯 Objetivo
@@ -96,8 +97,8 @@ Git ordenará automáticamente el `fixup` junto al commit `C2`.
 
 ---
 
-## 🇬🇧 English Version
 ## English Version
+## 🇬🇧 English Version
 
 ### 🎯 Goal
 

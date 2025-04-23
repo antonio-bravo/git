@@ -6,7 +6,7 @@
 - 🇬🇧 [English Version](#english-version)
 
 ---
-
+## Versión en Español
 ## 🇪🇸 Versión en Español
 
 ### 🧠 Escenario
@@ -41,6 +41,7 @@ git push --force
 
 ---
 
+## English Version
 ## 🇬🇧 English Version
 
 ### 🧠 Scenario
