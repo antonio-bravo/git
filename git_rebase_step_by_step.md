@@ -17,7 +17,7 @@ This guide includes detailed examples showing what you’ll see in your terminal
 
 ---
 
-## 🧭 1. `git rebase <branch>` - Rebase básico
+🧭 ## 1. git rebase <branch> - Rebase básico
 
 ### 🎯 Objetivo:
 Reescribir los commits de una rama (`feature`) para que se apliquen encima de la base de otra (`main`).
@@ -62,7 +62,7 @@ Applying: Commit E
 
 ---
 
-## ✏️ 2. `git rebase -i` - Rebase interactivo
+✏️ ## 2. git rebase -i - Rebase interactivo
 
 ### 🎯 Objetivo:
 Editar, reordenar, unir o eliminar commits recientes.
