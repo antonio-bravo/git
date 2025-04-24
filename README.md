@@ -35,6 +35,7 @@ Una colección de recursos y guías prácticas sobre Git: desde operaciones bás
 
 - [Rebase guia completa](git_rebase_full_guide.md)
 - [Rebase paso a paso](git_rebase_step_by_step.md)
+- [Git Rebase explicado como si tuvieras 5 años](git_rebase_baby_tutorial.md)
 
 ### 📝 Reflog
 
