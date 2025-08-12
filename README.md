@@ -41,6 +41,10 @@ Una colección de recursos y guías prácticas sobre Git: desde operaciones bás
 
 - [Reflog: El diario oculto de Git](git_reflog_recovery_bilingual.md)
 
+### 🔍 Exploración de Commits
+
+- [Inspeccionar commits con git show, git diff-tree y más](git_commit_inspection.md)
+
 ---
 
 ✍️ Todos los documentos están disponibles en versiones bilingües (Español / English) cuando corresponde.
