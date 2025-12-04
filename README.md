@@ -45,6 +45,8 @@ Una colección de recursos y guías prácticas sobre Git: desde operaciones bás
 
 - [Inspeccionar commits con git show, git diff-tree y más](git_commit_inspection.md)
 
+### 🔍 borrar archivos nuevos que no quiero añadir
+- git clean -fd
 ---
 
 ✍️ Todos los documentos están disponibles en versiones bilingües (Español / English) cuando corresponde.
